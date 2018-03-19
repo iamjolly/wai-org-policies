@@ -45,7 +45,7 @@ Your organizational policy may not be suitable for the public if it is an intern
 {% include box.html type="start" title="Example of simple policy" class="example" %}
 {:/}
 
-ACME Inc. is committed to ensuring that its website is accessible to people with disabilities. All the pages on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0,  Level AA conformance. Report any issues to <accessibility@acme.inc>.
+ACME Inc. is committed to ensuring that its website is accessible to people with disabilities. All the pages on our website will meet W3C WAI's [Web Content Accessibility Guidelines](/TR/WCAG/) 2.0,  Level AA conformance. Report any issues to <accessibility@acme.example.com>.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -107,8 +107,8 @@ Note that broader polices may impact your scope considerations. For example, pub
 {:/}
 
 This policy applies to all new, updated, and existing web content on
-http://www.acme.inc/ and all content provided internally at
-http://intranet.acme.inc/.
+http://acme.example.com/ and all content provided internally at
+http://intranet.acme.example.com/.
 
 {::nomarkdown}
 {% include box.html type="end" %}
